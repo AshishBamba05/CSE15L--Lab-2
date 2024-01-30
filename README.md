@@ -1,7 +1,7 @@
-Lab 2
+LAB 2
 
 
-Part 1
+PART 1
 
 My code for the ChatServer
 ![Image](ServerCode)
@@ -27,7 +27,7 @@ The arguments that we pass in
 
 
 
-Part 2
+PART 2
 
 ![Image](Keys)
 
