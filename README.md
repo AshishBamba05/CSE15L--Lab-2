@@ -33,5 +33,5 @@ PART 2
 
 PART 3
 
-
+I learned that the query of the URL is the part of the URL that takes place after the first ? and before the anchor
 
